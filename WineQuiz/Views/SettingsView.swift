@@ -3,6 +3,7 @@ import SwiftUI
 struct SettingsView: View {
     @Environment(\.dismiss) private var dismiss
     @Environment(GameStore.self) private var store
+    @Environment(AdsPrivacyController.self) private var adsPrivacy
 
     @AppStorage(SoundPlayer.soundEnabledKey) private var soundEnabled = true
     @AppStorage(SoundPlayer.hapticsEnabledKey) private var hapticsEnabled = true
@@ -26,6 +27,13 @@ struct SettingsView: View {
                     }
                 }
 
+                if adsPrivacy.isPrivacyOptionsRequired {
+                    Section("プライバシー") {
+                        Button("広告のプライバシー設定") {
+                            Task { await adsPrivacy.presentPrivacyOptions() }
+                        }
+                    }
+                }
                 Section("アプリについて") {
                     LabeledContent("バージョン", value: versionText)
                         .accessibilityElement(children: .ignore)
@@ -45,6 +53,14 @@ struct SettingsView: View {
                     Button("完了") { dismiss() }
                 }
             }
+            .alert("広告のプライバシー設定", isPresented: Binding(
+                get: { adsPrivacy.privacyOptionsError != nil },
+                set: { if !$0 { adsPrivacy.privacyOptionsError = nil } }
+            )) {
+                Button("閉じる") { adsPrivacy.privacyOptionsError = nil }
+            } message: {
+                Text(adsPrivacy.privacyOptionsError ?? "")
+            }
             .confirmationDialog("ハイスコア・累計成績・復習リスト・今日の挑戦状況を消去します。", isPresented: $showResetConfirmation, titleVisibility: .visible) {
                 Button("リセットする", role: .destructive) {
                     store.resetStats()
@@ -57,6 +73,7 @@ struct SettingsView: View {
 #Preview {
     SettingsView()
         .environment(GameStore())
+        .environment(AdsPrivacyController())
 }
 
 struct PrivacyView: View {
@@ -65,7 +82,9 @@ struct PrivacyView: View {
             VStack(alignment: .leading, spacing: 20) {
                 Text("ワイン雑学クイズ").font(.title2.bold())
                 Text("成績・復習対象・今日の挑戦状況・効果音と触覚の設定は端末内に保存します。アプリ独自のサーバーへの送信やアカウント登録はありません。成績は設定からリセットできます。")
-                Text("広告にはGoogle Mobile Ads SDKを利用しています。現在はGoogle公式のテスト広告のみを使用します。SDKは広告の取得や不正防止のため、IPアドレス、端末情報、診断情報などをGoogleへ送信することがあります。")
+                Text("広告にはGoogle Mobile Ads SDKを利用しています。広告のパーソナライズを無効にし、非パーソナライズ広告を要求します。広告用の追跡許可（ATT）は要求しません。SDKは広告の取得や不正防止のため、IPアドレス、端末情報、診断情報などをGoogleへ送信することがあります。")
+                Text("広告の取得前にGoogle User Messaging Platformで同意状況を確認し、必要な選択画面を表示します。選択の変更が必要な場合は、設定の「広告のプライバシー設定」から行えます。")
+                Link("公開プライバシーポリシー", destination: URL(string: "https://www.givetex.org/apps/winequiz/privacy/")!)
                 Link("Googleのプライバシーポリシー", destination: URL(string: "https://policies.google.com/privacy")!)
                 Text("結果のシェアは操作したときだけ共有画面を開きます。送信先と送信内容は共有画面で選択できます。出典リンクは外部サイトを開きます。")
                 Text("最終更新：2026年11月2日").font(.caption)

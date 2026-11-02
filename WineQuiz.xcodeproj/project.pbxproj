@@ -11,6 +11,7 @@
 		1D45215EF4A6058F5E456AFF /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146AEC841583F3B3897206F9 /* QuizView.swift */; };
 		25EC76C1B52188A173F11BD3 /* UnavailableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4B217B6023F483F1D1742A /* UnavailableView.swift */; };
 		28F82B945D0465F71DB4C0FD /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 07418296138D7108D9CDCFA0 /* GoogleMobileAds */; };
+		46D13ACD5C64B923F12F7D86 /* AdsPrivacyController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CDDF9AAF6159C859E3E5D /* AdsPrivacyController.swift */; };
 		50AE1D3846E1B20F55EBF9ED /* AdBannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0C83C20EF599C2002B6BA0 /* AdBannerView.swift */; };
 		53168F15B1855F7896C18164 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 478152F0EE7F55DED9EC3EF5 /* Assets.xcassets */; };
 		621692E2366E0711EC47BEE8 /* QuestionRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47DB9D71C3F6983CA1E6385 /* QuestionRepository.swift */; };
@@ -27,6 +28,7 @@
 		ACCB30D056825666E1CD4287 /* Difficulty.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6725E1069148873B9B65266 /* Difficulty.swift */; };
 		B2804ADDDA08DE439A5B22EA /* wine_quiz.json in Resources */ = {isa = PBXBuildFile; fileRef = B2AFFCBC5E044DFD3F10BF33 /* wine_quiz.json */; };
 		B7C684D176A5162134D0602E /* WineQuizUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EF1A7C0FFFE8A058A24A3A /* WineQuizUITests.swift */; };
+		E00FD43C481EF8DAD4442BDD /* UserMessagingPlatform in Frameworks */ = {isa = PBXBuildFile; productRef = 82141E71216DFC1E62AE32F4 /* UserMessagingPlatform */; };
 		E3C36C2D791BFE7C9252907A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E0F20814046582E42217178 /* Foundation.framework */; };
 		E7F4CD52CF115A459487A38E /* WineTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2F89C396CB442A1095F64D /* WineTheme.swift */; };
 		EDC7C948ECBBE66DB4486873 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FF5FBABBEEEC7E87339D24 /* HomeView.swift */; };
@@ -68,6 +70,7 @@
 		78A72FABF47FD0D6855CABAB /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 		79D7BB98479904CC942AFDB7 /* QuestionRepositoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionRepositoryTests.swift; sourceTree = "<group>"; };
 		8431DBC90A7CDF2B0CE49304 /* AnswerRecord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerRecord.swift; sourceTree = "<group>"; };
+		8B3CDDF9AAF6159C859E3E5D /* AdsPrivacyController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AdsPrivacyController.swift; sourceTree = "<group>"; };
 		936F5B30889700A8C7E00513 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A1B2C3D4E5F60718293A4B5D /* SoundPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPlayer.swift; sourceTree = "<group>"; };
 		A1B2C3D4E5F60718293A4B61 /* GameStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameStore.swift; sourceTree = "<group>"; };
@@ -96,6 +99,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28F82B945D0465F71DB4C0FD /* GoogleMobileAds in Frameworks */,
+				E00FD43C481EF8DAD4442BDD /* UserMessagingPlatform in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -199,7 +203,17 @@
 				DA7A1C0704277956292083D7 /* Products */,
 				9F5501C17B2EFA92F4417014 /* Frameworks */,
 				23F0B1801AB786431E56C613 /* WineQuizUITests */,
+				AB492C996345D80E297AA998 /* Services */,
 			);
+			sourceTree = "<group>";
+		};
+		AB492C996345D80E297AA998 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				8B3CDDF9AAF6159C859E3E5D /* AdsPrivacyController.swift */,
+			);
+			name = Services;
+			path = WineQuiz/Services;
 			sourceTree = "<group>";
 		};
 		DA7A1C0704277956292083D7 /* Products */ = {
@@ -247,6 +261,7 @@
 			name = WineQuiz;
 			packageProductDependencies = (
 				07418296138D7108D9CDCFA0 /* GoogleMobileAds */,
+				82141E71216DFC1E62AE32F4 /* UserMessagingPlatform */,
 			);
 			productName = WineQuiz;
 			productReference = 083C594EEF0DE6AD63591D0F /* WineQuiz.app */;
@@ -317,6 +332,7 @@
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				D5B0B9D89431EB7F6F79F7A7 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */,
+				C2CCA3CBBC7A6ABA3AB825DB /* XCRemoteSwiftPackageReference "swift-package-manager-google-user-messaging-platform" */,
 			);
 			productRefGroup = DA7A1C0704277956292083D7 /* Products */;
 			projectDirPath = "";
@@ -371,6 +387,7 @@
 				1D45215EF4A6058F5E456AFF /* QuizView.swift in Sources */,
 				8FCE0B8E24439B4EB357D7BE /* ResultView.swift in Sources */,
 				25EC76C1B52188A173F11BD3 /* UnavailableView.swift in Sources */,
+				46D13ACD5C64B923F12F7D86 /* AdsPrivacyController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -493,6 +510,7 @@
 		65EB95963D3447A909F94BD8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ADMOB_APP_ID = "ca-app-pub-4859622277330192~6128100000";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -519,6 +537,7 @@
 		720AE151A7E2A35E15478314 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ADMOB_APP_ID = "ca-app-pub-4859622277330192~6128100000";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -698,6 +717,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		C2CCA3CBBC7A6ABA3AB825DB /* XCRemoteSwiftPackageReference "swift-package-manager-google-user-messaging-platform" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.1.0;
+			};
+		};
 		D5B0B9D89431EB7F6F79F7A7 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads.git";
@@ -713,6 +740,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = D5B0B9D89431EB7F6F79F7A7 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
 			productName = GoogleMobileAds;
+		};
+		82141E71216DFC1E62AE32F4 /* UserMessagingPlatform */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C2CCA3CBBC7A6ABA3AB825DB /* XCRemoteSwiftPackageReference "swift-package-manager-google-user-messaging-platform" */;
+			productName = GoogleUserMessagingPlatform;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

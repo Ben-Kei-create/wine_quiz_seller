@@ -121,4 +121,12 @@ final class GameStoreTests: XCTestCase {
         store.recordDailyCompleted()
         XCTAssertTrue(GameStore(defaults: defaults).isDailyCompleted())
     }
+
+    @MainActor
+    func testAdsAreBlockedBeforeConsentAndNoOptionsAreInitiallyShown() {
+        let privacy = AdsPrivacyController()
+        XCTAssertFalse(privacy.canRequestAds)
+        XCTAssertFalse(privacy.isPrivacyOptionsRequired)
+        XCTAssertEqual(privacy.adGeneration, 0)
+    }
 }

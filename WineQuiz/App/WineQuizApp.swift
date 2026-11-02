@@ -3,15 +3,15 @@ import SwiftUI
 
 @main
 struct WineQuizApp: App {
-    init() {
-        MobileAds.shared.start()
-    }
+    @State private var adsPrivacy = AdsPrivacyController()
 
     var body: some Scene {
         WindowGroup {
             ContentView()
                 .tint(WineTheme.red)
                 .preferredColorScheme(.light)
+                .environment(adsPrivacy)
+                .task { await adsPrivacy.prepare() }
         }
     }
 }

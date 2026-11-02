@@ -3,27 +3,33 @@ import GoogleMobileAds
 import SwiftUI
 
 enum AdMobConfiguration {
-    static let appID = "ca-app-pub-3940256099942544~1458002511"
-
+    #if DEBUG
     static let bannerAdUnitID = "ca-app-pub-3940256099942544/2934735716"
+    #else
+    static let bannerAdUnitID = "ca-app-pub-4859622277330192/3016344791"
+    #endif
 
 }
 
 struct AdBannerBar: View {
+    @Environment(AdsPrivacyController.self) private var adsPrivacy
     @State private var adHeight: CGFloat = 50
 
     var body: some View {
-        HStack {
-            Spacer(minLength: 0)
-            BannerViewContainer(onHeightChange: { height in
-                adHeight = height
-            })
-            .frame(height: adHeight)
-            .accessibilityIdentifier("quiz_banner_ad")
-            Spacer(minLength: 0)
+        if adsPrivacy.canRequestAds {
+            HStack {
+                Spacer(minLength: 0)
+                BannerViewContainer(onHeightChange: { height in
+                    adHeight = height
+                })
+                .frame(height: adHeight)
+                .id(adsPrivacy.adGeneration)
+                .accessibilityIdentifier("quiz_banner_ad")
+                Spacer(minLength: 0)
+            }
+            .frame(maxWidth: .infinity)
+            .background(Color.black.opacity(0.08))
         }
-        .frame(maxWidth: .infinity)
-        .background(Color.black.opacity(0.08))
     }
 }
 
@@ -34,7 +40,11 @@ private struct BannerViewContainer: UIViewRepresentable {
         let banner = BannerView(adSize: AdSizeBanner)
         banner.adUnitID = AdMobConfiguration.bannerAdUnitID
         banner.delegate = context.coordinator
-        banner.load(Request())
+        let request = Request()
+        let extras = Extras()
+        extras.additionalParameters = ["npa": "1"]
+        request.register(extras)
+        banner.load(request)
         return banner
     }
 
