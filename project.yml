@@ -1,0 +1,87 @@
+name: WineQuiz
+options:
+  developmentLanguage: ja
+  deploymentTarget:
+    iOS: "17.0"
+settings:
+  base:
+    CODE_SIGN_STYLE: Automatic
+    CURRENT_PROJECT_VERSION: 1
+    DEVELOPMENT_TEAM: "7R927F3U4V"
+    IPHONEOS_DEPLOYMENT_TARGET: "17.0"
+    MARKETING_VERSION: 1.0.0
+    SWIFT_VERSION: 5.0
+packages:
+  GoogleMobileAds:
+    url: https://github.com/googleads/swift-package-manager-google-mobile-ads.git
+    from: 13.3.0
+targets:
+  WineQuiz:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: WineQuiz/App
+      - path: WineQuiz/Models
+      - path: WineQuiz/Services
+      - path: WineQuiz/Views
+      - path: WineQuiz/Assets.xcassets
+      - path: WineQuiz/Resources
+    settings:
+      base:
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        INFOPLIST_FILE: WineQuiz/Info.plist
+        PRODUCT_BUNDLE_IDENTIFIER: io.github.benkeicreate.winequiz
+        PRODUCT_MODULE_NAME: WineQuiz
+        PRODUCT_NAME: WineQuiz
+        TARGETED_DEVICE_FAMILY: "1,2"
+        INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.education
+        SUPPORTED_PLATFORMS: "iphoneos iphonesimulator"
+        SUPPORTS_MACCATALYST: NO
+        SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: NO
+        SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD: NO
+    dependencies:
+      - package: GoogleMobileAds
+        product: GoogleMobileAds
+  WineQuizTests:
+    type: bundle.unit-test
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: WineQuizTests
+    dependencies:
+      - target: WineQuiz
+    settings:
+      base:
+        BUNDLE_LOADER: "$(TEST_HOST)"
+        GENERATE_INFOPLIST_FILE: YES
+        PRODUCT_BUNDLE_IDENTIFIER: io.github.benkeicreate.winequiz.tests
+        PRODUCT_NAME: WineQuizTests
+        TEST_HOST: "$(BUILT_PRODUCTS_DIR)/WineQuiz.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WineQuiz"
+  WineQuizUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: WineQuizUITests
+    dependencies:
+      - target: WineQuiz
+    settings:
+      base:
+        GENERATE_INFOPLIST_FILE: YES
+        PRODUCT_BUNDLE_IDENTIFIER: io.github.benkeicreate.winequiz.uitests
+        TEST_TARGET_NAME: WineQuiz
+schemes:
+  WineQuiz:
+    build:
+      targets:
+        WineQuiz: all
+    test:
+      targets:
+        - WineQuizTests
+        - WineQuizUITests
+      gatherCoverageData: true
+    run:
+      config: Debug
+    archive:
+      config: Release

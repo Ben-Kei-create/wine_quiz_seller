@@ -1,0 +1,162 @@
+{
+  "basic": {
+    "title": "WSET — What is wine?",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2021/december/14/what-is-wine",
+    "checkedOn": "2026-11-02"
+  },
+  "colour": {
+    "title": "WSET — What determines the colour of wine?",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2021/september/23/what-determines-the-colour-of-wine",
+    "checkedOn": "2026-11-02"
+  },
+  "styles": {
+    "title": "WSET — A guide to wine types and styles",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there",
+    "checkedOn": "2026-11-02"
+  },
+  "label": {
+    "title": "WSET — How to read wine labels",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2019/how-to-read-wine-labels-part-one-common-features-on-wine-labels",
+    "checkedOn": "2026-11-02"
+  },
+  "acid": {
+    "title": "WSET — Understanding acidity in wine",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2026/understanding-acidity-in-wine/",
+    "checkedOn": "2026-11-02"
+  },
+  "geo": {
+    "title": "WSET — How does geography affect a wine’s style?",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2021/august/24/how-does-geography-affect-a-wine-s-style",
+    "checkedOn": "2026-11-02"
+  },
+  "vine": {
+    "title": "WSET — The lifecycle of a vine",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2021/june/22/the-lifecycle-of-a-vine",
+    "checkedOn": "2026-11-02"
+  },
+  "blend": {
+    "title": "WSET — Why do we blend wine?",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2024/why-do-we-blend-wine/",
+    "checkedOn": "2026-11-02"
+  },
+  "riesling": {
+    "title": "WSET — Understanding Riesling in Germany",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/17/understanding-riesling-in-germany",
+    "checkedOn": "2026-11-02"
+  },
+  "german": {
+    "title": "WSET — Decoding German Riesling",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2025/decoding-german-riesling-a-guide-to-quality-and-styles",
+    "checkedOn": "2026-11-02"
+  },
+  "burgundy": {
+    "title": "BIVB — Pinot Noir and Chardonnay",
+    "url": "https://www.bourgogne-wines.com/wine-and-terroir/our-grape-varietals-our-colors/pinot-noir-and-chardonnay-the-bourgogne-region-s-two-noble-grape-varietals,2475,9265.html",
+    "checkedOn": "2026-11-02"
+  },
+  "nz": {
+    "title": "New Zealand Winegrowers — Marlborough",
+    "url": "https://www.nzwine.com/en/regions/marlborough/",
+    "checkedOn": "2026-11-02"
+  },
+  "shiraz": {
+    "title": "Wine Australia — Shiraz",
+    "url": "https://www.wineaustralia.com/market-insights/regions-and-varieties/shiraz",
+    "checkedOn": "2026-11-02"
+  },
+  "rioja": {
+    "title": "Consejo Regulador DOCa Rioja — Tempranillo",
+    "url": "https://riojawine.com/en-us/the-designation/grape-varieties/tempranillo/",
+    "checkedOn": "2026-11-02"
+  },
+  "riojaguide": {
+    "title": "Consejo Regulador DOCa Rioja — Bartender guide",
+    "url": "https://rwcc.riojawine.com/uploads/multimedia/document/Rioja-bartender-guide.pdf",
+    "checkedOn": "2026-11-02"
+  },
+  "barbaresco": {
+    "title": "Consorzio Langhe Vini — Barbaresco DOCG",
+    "url": "https://www.langhevini.it/en/le-denominazioni-tutelate-dal-consorzio/barbaresco-docg/",
+    "checkedOn": "2026-11-02"
+  },
+  "port": {
+    "title": "IVDP — Port Wines: Introduction",
+    "url": "https://ivdp.pt/en/wines/port-wines/introduction/",
+    "checkedOn": "2026-11-02"
+  },
+  "portmake": {
+    "title": "IVDP — Port Wines: The Winemaking",
+    "url": "https://www.ivdp.pt/en/wines/port-wines/the-winemaking/",
+    "checkedOn": "2026-11-02"
+  },
+  "sherry": {
+    "title": "Sherry Wines — Vinification",
+    "url": "https://cdn.sherry.wine/sherry-wine/production/vinification",
+    "checkedOn": "2026-11-02"
+  },
+  "sherryfood": {
+    "title": "WSET — Sherry and food",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2020/november/03/sherry-and-food-the-perfect-match",
+    "checkedOn": "2026-11-02"
+  },
+  "spark": {
+    "title": "WSET — Sparkling wine production methods",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2026/a-guide-to-sparkling-wine-production-methods-and-regional-styles",
+    "checkedOn": "2026-11-02"
+  },
+  "disgorge": {
+    "title": "Comité Champagne — Disgorgement",
+    "url": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/disgorgement",
+    "checkedOn": "2026-11-02"
+  },
+  "dosage": {
+    "title": "Union des Maisons de Champagne — Dosage",
+    "url": "https://maisons-champagne.com/en/appellation/stages-in-winemaking/preparation-for-shipment-many-years-later/article/dosage",
+    "checkedOn": "2026-11-02"
+  },
+  "champlabel": {
+    "title": "Comité Champagne — How to read a Champagne label",
+    "url": "https://www.champagne.fr/system/files/2025-09/FICHE%20SAVOIR%20LIRE%20UNE%20%C3%89TIQUETTE%20EN%202025.pdf",
+    "checkedOn": "2026-11-02"
+  },
+  "service": {
+    "title": "WSET — Serving and decanting wine",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/21/frequently-asked-questions-about-serving-and-decanting-wine/",
+    "checkedOn": "2026-11-02"
+  },
+  "aroma": {
+    "title": "WSET — Level 3 Wine Lexicon",
+    "url": "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf",
+    "checkedOn": "2026-11-02"
+  },
+  "lesson": {
+    "title": "WSET — Level 2 Wines Session Plans (2023)",
+    "url": "https://www.wsetglobal.com/media/13022/wset_l2wines_sessionplans_en_may2023_issue2.pdf",
+    "checkedOn": "2026-11-02"
+  },
+  "mlf": {
+    "title": "Oregon State University Extension — Malolactic fermentation",
+    "url": "https://extension.oregonstate.edu/food/wine-beer/conducting-successful-malolactic-fermentation",
+    "checkedOn": "2026-11-02"
+  },
+  "japan": {
+    "title": "国税庁 — 国税庁レポート2019・ワインの表示ルール",
+    "url": "https://www.nta.go.jp/about/introduction/torikumi/report/2019.pdf",
+    "checkedOn": "2026-11-02"
+  },
+  "orange": {
+    "title": "WSET — What is orange wine?",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2026/what-is-orange-wine-understanding-skin-contact-white-wines",
+    "checkedOn": "2026-11-02"
+  },
+  "barbarescoRules": {
+    "title": "Consorzio Langhe Vini — Barbaresco DOCG production regulations, Art. 5",
+    "url": "https://www.langhevini.it/wp-content/uploads/2019/05/Disciplinare-BARBARESCO-EN.pdf",
+    "checkedOn": "2026-11-02"
+  },
+  "oak": {
+    "title": "WSET — Why is oak used in winemaking?",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2021/july/27/why-is-oak-used-in-winemaking/",
+    "checkedOn": "2026-11-02"
+  }
+}

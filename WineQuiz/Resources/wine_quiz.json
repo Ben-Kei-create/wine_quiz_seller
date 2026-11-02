@@ -1,0 +1,1752 @@
+[
+  {
+    "question": "ワインの主な原料となる果実は？",
+    "choices": [
+      "りんご",
+      "さくらんぼ",
+      "もも",
+      "ぶどう"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ワインは、ぶどうの果汁を発酵させて造るお酒です。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What is wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/december/14/what-is-wine"
+  },
+  {
+    "question": "アルコール発酵で糖をアルコールに変える主役は？",
+    "choices": [
+      "食塩",
+      "酵母",
+      "酸素だけ",
+      "ぶどうの種だけ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "酵母が果汁中の糖を利用し、アルコールと二酸化炭素を生み出します。",
+    "difficulty": "Easy",
+    "sourceTitle": "Sherry Wines — Vinification",
+    "sourceURL": "https://cdn.sherry.wine/sherry-wine/production/vinification"
+  },
+  {
+    "question": "発酵前のぶどう果汁に自然に含まれるものは？",
+    "choices": [
+      "乳脂肪",
+      "糖分",
+      "小麦粉",
+      "ホップ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "ぶどう果汁には発酵の材料となる糖が含まれています。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What is wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/december/14/what-is-wine"
+  },
+  {
+    "question": "赤ワインの赤色を担う色素は？",
+    "choices": [
+      "メラニン",
+      "アントシアニン",
+      "クロロフィル",
+      "カロテンだけ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "赤ワインの色は、黒ぶどうの果皮にあるアントシアニンに由来します。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What is wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/december/14/what-is-wine"
+  },
+  {
+    "question": "赤ワインの色は主にぶどうのどこから得られる？",
+    "choices": [
+      "果皮",
+      "花粉",
+      "根",
+      "つる"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "果汁と黒ぶどうの果皮を接触させることで、赤い色が抽出されます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What determines the colour of wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/september/23/what-determines-the-colour-of-wine"
+  },
+  {
+    "question": "一般的な白ワイン造りで、発酵前に分けるものは？",
+    "choices": [
+      "香りすべて",
+      "果汁中の水すべて",
+      "糖分すべて",
+      "果皮や種"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "一般的な白ワインは、圧搾で果皮や種を分けた果汁を発酵させます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What determines the colour of wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/september/23/what-determines-the-colour-of-wine"
+  },
+  {
+    "question": "黒ぶどうから白ワインを造ることはできる？",
+    "choices": [
+      "砂糖を加えればできる",
+      "必ず赤になる",
+      "できる",
+      "蒸留した場合だけできる"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "果汁を果皮から早く分ければ、黒ぶどうからも白ワインが造れます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What determines the colour of wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/september/23/what-determines-the-colour-of-wine"
+  },
+  {
+    "question": "ロゼを造る代表的な方法は？",
+    "choices": [
+      "果汁を必ず蒸留する",
+      "黒ぶどうの果皮と果汁を短時間接触させる",
+      "赤ワインを必ず水で薄める",
+      "白ワインに必ず着色料を入れる"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "短い果皮接触で淡いピンク色を得る方法がよく用いられます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What determines the colour of wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/september/23/what-determines-the-colour-of-wine"
+  },
+  {
+    "question": "タンニンがもたらす代表的な口の感覚は？",
+    "choices": [
+      "塩辛さ",
+      "炭酸の刺激だけ",
+      "氷の冷たさ",
+      "口がきゅっと乾く渋み"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "タンニンは、口の中が乾くような渋みの感覚を生みます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What determines the colour of wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/september/23/what-determines-the-colour-of-wine"
+  },
+  {
+    "question": "泡立つタイプのワインを一般に何という？",
+    "choices": [
+      "蒸留酒",
+      "スティルワイン",
+      "スパークリングワイン",
+      "リキュールだけ"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "二酸化炭素の泡を含むワインがスパークリングワインです。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — A guide to wine types and styles",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there"
+  },
+  {
+    "question": "発泡性のないワインを指す言葉は？",
+    "choices": [
+      "ビール",
+      "ブランデー",
+      "スティルワイン",
+      "スパークリングワイン"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "スティルワインは、スパークリングに対する非発泡性のワインの呼び名です。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — A guide to wine types and styles",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there"
+  },
+  {
+    "question": "ワインにスピリッツを加えて造るタイプは？",
+    "choices": [
+      "ノンアルコール果汁",
+      "酒精強化ワイン",
+      "無発酵ワイン",
+      "ミネラルウォーター"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "酒精強化はスピリッツを加える工程で、ポートなどに用いられます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — A guide to wine types and styles",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there"
+  },
+  {
+    "question": "ラベルにあるヴィンテージの年は通常何を示す？",
+    "choices": [
+      "ワイナリーの創業年",
+      "ぶどうの収穫年",
+      "購入年",
+      "瓶の製造年"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "ヴィンテージは、原料ぶどうが収穫された年を表します。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — How to read wine labels",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2019/how-to-read-wine-labels-part-one-common-features-on-wine-labels"
+  },
+  {
+    "question": "ラベルの「12% vol」は何の表示？",
+    "choices": [
+      "樽の使用率",
+      "果皮の割合",
+      "糖分の割合",
+      "アルコール度数"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "「% vol」や「ABV」は、容量に対するアルコールの割合を示します。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — How to read wine labels",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2019/how-to-read-wine-labels-part-one-common-features-on-wine-labels"
+  },
+  {
+    "question": "欧州のワインラベルで品種名の代わりに目立つことが多いのは？",
+    "choices": [
+      "産地名",
+      "必ず酵母名",
+      "必ず料理名",
+      "必ず収穫時刻"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "欧州には、品種名よりも産地名を中心に表示するワインが多くあります。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — How to read wine labels",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2019/how-to-read-wine-labels-part-one-common-features-on-wine-labels"
+  },
+  {
+    "question": "シャルドネはどの種類のぶどう？",
+    "choices": [
+      "柑橘類",
+      "黒ぶどう",
+      "食用の赤いりんご",
+      "白ぶどう"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "シャルドネは、ブルゴーニュを代表する白ぶどう品種です。",
+    "difficulty": "Easy",
+    "sourceTitle": "BIVB — Pinot Noir and Chardonnay",
+    "sourceURL": "https://www.bourgogne-wines.com/wine-and-terroir/our-grape-varietals-our-colors/pinot-noir-and-chardonnay-the-bourgogne-region-s-two-noble-grape-varietals,2475,9265.html"
+  },
+  {
+    "question": "ピノ・ノワールはどの種類のぶどう？",
+    "choices": [
+      "木の実",
+      "黒ぶどう",
+      "穀物",
+      "白ぶどうだけ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "ピノ・ノワールは、ブルゴーニュの赤ワインを代表する黒ぶどうです。",
+    "difficulty": "Easy",
+    "sourceTitle": "BIVB — Pinot Noir and Chardonnay",
+    "sourceURL": "https://www.bourgogne-wines.com/wine-and-terroir/our-grape-varietals-our-colors/pinot-noir-and-chardonnay-the-bourgogne-region-s-two-noble-grape-varietals,2475,9265.html"
+  },
+  {
+    "question": "ブルゴーニュの主要な白品種と黒品種の組合せは？",
+    "choices": [
+      "リースリングとマルベック",
+      "甲州とテンプラニーリョ",
+      "シャルドネとピノ・ノワール",
+      "グレーラとネッビオーロ"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "ブルゴーニュでは、白のシャルドネと黒のピノ・ノワールが中心です。",
+    "difficulty": "Easy",
+    "sourceTitle": "BIVB — Pinot Noir and Chardonnay",
+    "sourceURL": "https://www.bourgogne-wines.com/wine-and-terroir/our-grape-varietals-our-colors/pinot-noir-and-chardonnay-the-bourgogne-region-s-two-noble-grape-varietals,2475,9265.html"
+  },
+  {
+    "question": "ソーヴィニヨン・ブランで世界的に知られるマールボロはどの国？",
+    "choices": [
+      "イタリア",
+      "ニュージーランド",
+      "スペイン",
+      "ドイツ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "マールボロは、ニュージーランドを代表するワイン産地です。",
+    "difficulty": "Easy",
+    "sourceTitle": "New Zealand Winegrowers — Marlborough",
+    "sourceURL": "https://www.nzwine.com/en/regions/marlborough/"
+  },
+  {
+    "question": "バロッサ・ヴァレーがある国は？",
+    "choices": [
+      "ポルトガル",
+      "オーストラリア",
+      "日本",
+      "フランス"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "バロッサ・ヴァレーは、オーストラリアのシラーズの名産地です。",
+    "difficulty": "Easy",
+    "sourceTitle": "Wine Australia — Shiraz",
+    "sourceURL": "https://www.wineaustralia.com/market-insights/regions-and-varieties/shiraz"
+  },
+  {
+    "question": "リオハの赤ワインを代表する品種は？",
+    "choices": [
+      "グレーラ",
+      "テンプラニーリョ",
+      "リースリング",
+      "シャルドネ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "テンプラニーリョは、リオハの赤ワインの個性を支える主要品種です。",
+    "difficulty": "Easy",
+    "sourceTitle": "Consejo Regulador DOCa Rioja — Tempranillo",
+    "sourceURL": "https://riojawine.com/en-us/the-designation/grape-varieties/tempranillo/"
+  },
+  {
+    "question": "ドイツを代表する白ぶどう品種は？",
+    "choices": [
+      "リースリング",
+      "ガメイ",
+      "ネッビオーロ",
+      "マルベック"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "リースリングは、ドイツのワインを代表する白ぶどう品種です。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Decoding German Riesling",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2025/decoding-german-riesling-a-guide-to-quality-and-styles"
+  },
+  {
+    "question": "ポートワインの産地として知られるドウロはどの国？",
+    "choices": [
+      "ドイツ",
+      "オーストリア",
+      "ニュージーランド",
+      "ポルトガル"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ポートは、ポルトガルのドウロの指定地域で造られます。",
+    "difficulty": "Easy",
+    "sourceTitle": "IVDP — Port Wines: Introduction",
+    "sourceURL": "https://ivdp.pt/en/wines/port-wines/introduction/"
+  },
+  {
+    "question": "シェリーの産地ヘレスがある国は？",
+    "choices": [
+      "チリ",
+      "スペイン",
+      "フランス",
+      "イタリア"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "シェリーは、スペイン南部のヘレス周辺で造られるワインです。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Level 2 Wines Session Plans (2023)",
+    "sourceURL": "https://www.wsetglobal.com/media/13022/wset_l2wines_sessionplans_en_may2023_issue2.pdf"
+  },
+  {
+    "question": "シャンパーニュはどの国のワイン？",
+    "choices": [
+      "フランス",
+      "オーストラリア",
+      "アルゼンチン",
+      "日本"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "シャンパーニュは、フランスの同名地域で造られる発泡性ワインです。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Sparkling wine production methods",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/a-guide-to-sparkling-wine-production-methods-and-regional-styles"
+  },
+  {
+    "question": "プロセッコの主な生産国は？",
+    "choices": [
+      "カナダ",
+      "南アフリカ",
+      "イタリア",
+      "ドイツ"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "プロセッコの生産地は、イタリア北東部にあります。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Sparkling wine production methods",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/a-guide-to-sparkling-wine-production-methods-and-regional-styles"
+  },
+  {
+    "question": "市販のワインはすべて長期熟成させるべき？",
+    "choices": [
+      "白だけ必ず20年必要",
+      "多くは若いうちに楽しむ",
+      "すべて10年必要",
+      "すべて30年必要"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "多くのワインは、若い時期の新鮮な風味を楽しむよう造られています。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Serving and decanting wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/21/frequently-asked-questions-about-serving-and-decanting-wine/"
+  },
+  {
+    "question": "デキャンタージュの目的の一つは？",
+    "choices": [
+      "必ず赤を白にする",
+      "必ず度数を下げる",
+      "必ず糖を増やす",
+      "ワインと澱を分ける"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "澱のあるワインを静かに移すことで、澱を瓶に残すことができます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Serving and decanting wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/21/frequently-asked-questions-about-serving-and-decanting-wine/"
+  },
+  {
+    "question": "ワインの酸味が口にもたらす代表的な感覚は？",
+    "choices": [
+      "塩のざらつき",
+      "唾液が出るような爽やかさ",
+      "口が必ず麻痺する",
+      "油膜だけ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "酸味は、口の中に唾液を促す爽やかな感覚として捉えられます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Understanding acidity in wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/understanding-acidity-in-wine/"
+  },
+  {
+    "question": "一般に冷涼な産地のぶどうに残りやすいものは？",
+    "choices": [
+      "カフェイン",
+      "塩",
+      "乳脂肪",
+      "酸"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "冷涼な環境では成熟がゆっくり進み、酸が保たれやすくなります。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — How does geography affect a wine’s style?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/august/24/how-does-geography-affect-a-wine-s-style"
+  },
+  {
+    "question": "ぶどう樹が冬に迎える状態は？",
+    "choices": [
+      "休眠",
+      "果実が必ず凍結する",
+      "常に収穫期",
+      "毎日開花する"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "ぶどう樹は落葉し、冬は休眠して次の生育期に備えます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — The lifecycle of a vine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/june/22/the-lifecycle-of-a-vine"
+  },
+  {
+    "question": "受粉したぶどうの花は、その後何になる？",
+    "choices": [
+      "コルク",
+      "酵母",
+      "ぶどうの実",
+      "樽"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "受粉に成功した花が、やがてぶどうの果実になります。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — The lifecycle of a vine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/june/22/the-lifecycle-of-a-vine"
+  },
+  {
+    "question": "ワイン造りで「ブレンド」とは？",
+    "choices": [
+      "複数のワインなどを組み合わせること",
+      "瓶を割ること",
+      "ワインを凍らせること",
+      "必ず水を加えること"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "異なる品種や区画などのワインを組み合わせ、目指す味わいに整えます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Why do we blend wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/why-do-we-blend-wine/"
+  },
+  {
+    "question": "国税庁の表示ルールで「日本ワイン」の原料となるぶどうは？",
+    "choices": [
+      "国産米のみ",
+      "産地は問わない",
+      "国産ぶどうのみ",
+      "輸入ぶどうのみ"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "日本ワインは、国産ぶどうのみを原料とし、日本国内で製造された果実酒です。",
+    "difficulty": "Easy",
+    "sourceTitle": "国税庁 — 国税庁レポート2019・ワインの表示ルール",
+    "sourceURL": "https://www.nta.go.jp/about/introduction/torikumi/report/2019.pdf"
+  },
+  {
+    "question": "輸入濃縮ぶどう果汁を使い国内で造ったワインは「日本ワイン」と表示できる？",
+    "choices": [
+      "できない",
+      "赤ならできる",
+      "熟成すればできる",
+      "必ずできる"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "国内で造っても、輸入濃縮果汁を原料に使ったものは日本ワインとは表示できません。",
+    "difficulty": "Easy",
+    "sourceTitle": "国税庁 — 国税庁レポート2019・ワインの表示ルール",
+    "sourceURL": "https://www.nta.go.jp/about/introduction/torikumi/report/2019.pdf"
+  },
+  {
+    "question": "ワインの香りで「柑橘類」に分類される例は？",
+    "choices": [
+      "チョコレート",
+      "きのこ",
+      "革",
+      "レモン"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "レモンやライムは、ワインの香りを表す柑橘類の例です。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Level 3 Wine Lexicon",
+    "sourceURL": "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf"
+  },
+  {
+    "question": "ワインの香りで「赤系果実」に分類される例は？",
+    "choices": [
+      "レモン",
+      "バナナ",
+      "コーヒー",
+      "いちご"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "いちごやラズベリーなどは、赤系果実の香りの例です。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Level 3 Wine Lexicon",
+    "sourceURL": "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf"
+  },
+  {
+    "question": "ポートワインには白いタイプもある？",
+    "choices": [
+      "透明な蒸留酒だけ",
+      "ある",
+      "青だけ",
+      "赤だけ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "ポートには赤だけでなく、白ぶどうを使うホワイト・ポートもあります。",
+    "difficulty": "Easy",
+    "sourceTitle": "IVDP — Port Wines: Introduction",
+    "sourceURL": "https://ivdp.pt/en/wines/port-wines/introduction/"
+  },
+  {
+    "question": "オレンジワインの色は主にどのように得られる？",
+    "choices": [
+      "白ぶどうを果皮と接触させて造る",
+      "必ず紅茶で着色する",
+      "オレンジ果汁を必ず混ぜる",
+      "赤ワインを蒸留する"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "オレンジワインは、白ぶどうを果皮とともに発酵させるタイプです。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What is orange wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/what-is-orange-wine-understanding-skin-contact-white-wines"
+  },
+  {
+    "question": "ワインの「辛口」が主に示すものは？",
+    "choices": [
+      "炭酸が強いこと",
+      "唐辛子入りであること",
+      "甘味が少ないこと",
+      "必ず高い度数であること"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "辛口は甘味の少ない味わいを表し、香辛料の辛さとは異なります。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — A guide to wine types and styles",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there"
+  },
+  {
+    "question": "スペインでガルナッチャと呼ぶ品種のフランス名は？",
+    "choices": [
+      "シャルドネ",
+      "ピノ・ノワール",
+      "グルナッシュ",
+      "セミヨン"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "ガルナッチャとグルナッシュは、同じ品種の異なる呼び名です。",
+    "difficulty": "Easy",
+    "sourceTitle": "Consejo Regulador DOCa Rioja — Bartender guide",
+    "sourceURL": "https://rwcc.riojawine.com/uploads/multimedia/document/Rioja-bartender-guide.pdf"
+  },
+  {
+    "question": "マールボロのソーヴィニヨン・ブランでよく挙げられる特徴は？",
+    "choices": [
+      "ハーブやトロピカルフルーツの香り",
+      "必ず強い塩味",
+      "必ず蒸留香だけ",
+      "必ず黒い色"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "マールボロのソーヴィニヨン・ブランは、鮮明な果実香やハーブの香りで知られます。",
+    "difficulty": "Easy",
+    "sourceTitle": "New Zealand Winegrowers — Marlborough",
+    "sourceURL": "https://www.nzwine.com/en/regions/marlborough/"
+  },
+  {
+    "question": "澱のある赤ワインは、必ず有害？",
+    "choices": [
+      "少量でも必ず有害",
+      "赤い澱だけ必ず有害",
+      "通常の澱は有害ではない",
+      "瓶熟成の澱は必ず毒"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "熟成などで生じる通常の澱は有害ではありませんが、苦味や渋みを感じることがあります。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — Serving and decanting wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/21/frequently-asked-questions-about-serving-and-decanting-wine/"
+  },
+  {
+    "question": "「Barrel aged」の表示が伝えるのは？",
+    "choices": [
+      "氷で熟成したこと",
+      "樽で熟成したこと",
+      "必ず100年物であること",
+      "ぶどうを使わないこと"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "樽熟成の表示は、ワインが樽と接触して熟成したことを伝えます。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — How to read wine labels",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2019/how-to-read-wine-labels-part-one-common-features-on-wine-labels"
+  },
+  {
+    "question": "ワインの主な酸で、もともとぶどうに含まれる組合せは？",
+    "choices": [
+      "酢酸だけ",
+      "塩酸と硫酸",
+      "炭酸だけ",
+      "酒石酸とリンゴ酸"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ぶどうに含まれる酒石酸やリンゴ酸は、ワインの酸の重要な成分です。",
+    "difficulty": "Easy",
+    "sourceTitle": "WSET — What is wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/december/14/what-is-wine"
+  },
+  {
+    "question": "フランスのシャブリを代表するぶどう品種は？",
+    "choices": [
+      "シャルドネ",
+      "ソーヴィニヨン・ブラン",
+      "ヴィオニエ",
+      "リースリング"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "シャブリは、冷涼なブルゴーニュ北部で造るシャルドネの白ワインです。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Level 2 Wines Session Plans (2023)",
+    "sourceURL": "https://www.wsetglobal.com/media/13022/wset_l2wines_sessionplans_en_may2023_issue2.pdf"
+  },
+  {
+    "question": "ブルゴーニュで白ワインに使う、シャルドネ以外の主要品種は？",
+    "choices": [
+      "シラー",
+      "ムールヴェードル",
+      "アリゴテ",
+      "カベルネ・フラン"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "アリゴテは、ブルゴーニュの主要な白ぶどう品種の一つです。",
+    "difficulty": "Medium",
+    "sourceTitle": "BIVB — Pinot Noir and Chardonnay",
+    "sourceURL": "https://www.bourgogne-wines.com/wine-and-terroir/our-grape-varietals-our-colors/pinot-noir-and-chardonnay-the-bourgogne-region-s-two-noble-grape-varietals,2475,9265.html"
+  },
+  {
+    "question": "ピノ・ノワールの色が比較的淡くなりやすい理由は？",
+    "choices": [
+      "必ず水で薄める",
+      "果皮が薄く色素が比較的少ない",
+      "果汁が青い",
+      "発酵できない"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "果皮が薄いピノ・ノワールは、濃色品種に比べ色やタンニンが少ない傾向があります。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — What determines the colour of wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/september/23/what-determines-the-colour-of-wine"
+  },
+  {
+    "question": "ボルドーの赤でブレンドによく使う組合せは？",
+    "choices": [
+      "カベルネ・ソーヴィニヨンとメルロー",
+      "甲州とリースリング",
+      "シャルドネとアリゴテ",
+      "グレーラとモスカート"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "ボルドーでは、カベルネ・ソーヴィニヨンやメルローなどの黒ぶどうを組み合わせます。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Why do we blend wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/why-do-we-blend-wine/"
+  },
+  {
+    "question": "ローヌ北部の赤ワインで中心となる品種は？",
+    "choices": [
+      "ピノタージュ",
+      "テンプラニーリョ",
+      "サンジョヴェーゼ",
+      "シラー"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ローヌ北部では、シラーが主要な黒ぶどう品種です。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Why do we blend wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/why-do-we-blend-wine/"
+  },
+  {
+    "question": "「GSM」ブレンドのGは何の品種？",
+    "choices": [
+      "ゲヴュルツトラミネール",
+      "ガメイ",
+      "グレーラ",
+      "グルナッシュ"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "GSMは、グルナッシュ、シラーズ、ムールヴェードルの組合せです。",
+    "difficulty": "Medium",
+    "sourceTitle": "Wine Australia — Shiraz",
+    "sourceURL": "https://www.wineaustralia.com/market-insights/regions-and-varieties/shiraz"
+  },
+  {
+    "question": "シラーズに少量混醸する白ぶどうとして知られるのは？",
+    "choices": [
+      "マルベック",
+      "テンプラニーリョ",
+      "ネッビオーロ",
+      "ヴィオニエ"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "シラーズとヴィオニエを一緒に発酵させるスタイルがあります。",
+    "difficulty": "Medium",
+    "sourceTitle": "Wine Australia — Shiraz",
+    "sourceURL": "https://www.wineaustralia.com/market-insights/regions-and-varieties/shiraz"
+  },
+  {
+    "question": "バルバレスコDOCGの原料品種は？",
+    "choices": [
+      "サンジョヴェーゼ",
+      "ネッビオーロ",
+      "メルロー",
+      "バルベーラ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "バルバレスコは、ネッビオーロ100%で造られます。",
+    "difficulty": "Medium",
+    "sourceTitle": "Consorzio Langhe Vini — Barbaresco DOCG",
+    "sourceURL": "https://www.langhevini.it/en/le-denominazioni-tutelate-dal-consorzio/barbaresco-docg/"
+  },
+  {
+    "question": "キャンティ・クラッシコの中心となる品種は？",
+    "choices": [
+      "ガメイ",
+      "サンジョヴェーゼ",
+      "マルベック",
+      "テンプラニーリョ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "キャンティ・クラッシコは、サンジョヴェーゼを主体とする赤ワインです。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Why do we blend wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/why-do-we-blend-wine/"
+  },
+  {
+    "question": "テンプラニーリョの名前に関係する成熟の特徴は？",
+    "choices": [
+      "種がない",
+      "必ず冬に開花する",
+      "比較的早く熟す",
+      "収穫まで30年かかる"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "テンプラニーリョは、早熟を意味する「早い」に由来する名前を持ちます。",
+    "difficulty": "Medium",
+    "sourceTitle": "Consejo Regulador DOCa Rioja — Tempranillo",
+    "sourceURL": "https://riojawine.com/en-us/the-designation/grape-varieties/tempranillo/"
+  },
+  {
+    "question": "リオハの白ワインの主要品種ヴィウラの別名は？",
+    "choices": [
+      "ピノ・ノワール",
+      "ネッビオーロ",
+      "シラー",
+      "マカベオ"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ヴィウラはマカベオとも呼ばれ、白ワインやカバに使われます。",
+    "difficulty": "Medium",
+    "sourceTitle": "Consejo Regulador DOCa Rioja — Bartender guide",
+    "sourceURL": "https://rwcc.riojawine.com/uploads/multimedia/document/Rioja-bartender-guide.pdf"
+  },
+  {
+    "question": "ドイツのリースリングは甘口しかない？",
+    "choices": [
+      "発泡性だけ",
+      "辛口から甘口まである",
+      "酒精強化だけ",
+      "甘口だけ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "リースリングは、発酵の進め方などにより辛口から甘口まで造れます。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Understanding Riesling in Germany",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/17/understanding-riesling-in-germany"
+  },
+  {
+    "question": "ドイツ語のラベルで「Trocken」が意味するのは？",
+    "choices": [
+      "赤",
+      "辛口",
+      "樽",
+      "発泡"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "トロッケンは、ドイツのワインラベルで辛口を示す言葉です。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Decoding German Riesling",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2025/decoding-german-riesling-a-guide-to-quality-and-styles"
+  },
+  {
+    "question": "「Spätlese」の基本的な意味は？",
+    "choices": [
+      "早朝の瓶詰め",
+      "遅摘み",
+      "白い樽",
+      "海辺の畑"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "シュペートレーゼは遅摘みを意味し、収穫時のぶどうの熟度に関わる区分です。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Decoding German Riesling",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2025/decoding-german-riesling-a-guide-to-quality-and-styles"
+  },
+  {
+    "question": "貴腐でぶどうの水分が減ると、糖や風味はどうなる？",
+    "choices": [
+      "必ず消える",
+      "凝縮される",
+      "乳脂肪に変わる",
+      "食塩に変わる"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "適切な貴腐は、ぶどうの糖や酸、風味を凝縮させます。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Understanding Riesling in Germany",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/17/understanding-riesling-in-germany"
+  },
+  {
+    "question": "アイスヴァインの原料ぶどうは、圧搾時どの状態？",
+    "choices": [
+      "蒸留済み",
+      "完全に乾燥した粉",
+      "煮沸した状態",
+      "凍った状態"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "凍結したぶどうを凍ったまま圧搾し、凝縮した果汁を得ます。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Decoding German Riesling",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2025/decoding-german-riesling-a-guide-to-quality-and-styles"
+  },
+  {
+    "question": "伝統方式のスパークリングで二次発酵する場所は？",
+    "choices": [
+      "ぶどう畑の土中",
+      "蒸留器の中",
+      "瓶の中",
+      "開放した浅い皿"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "伝統方式では、瓶内で二次発酵させて泡を生み出します。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Sparkling wine production methods",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/a-guide-to-sparkling-wine-production-methods-and-regional-styles"
+  },
+  {
+    "question": "タンク方式の二次発酵が行われる容器は？",
+    "choices": [
+      "開いたグラス",
+      "木箱",
+      "密閉したタンク",
+      "紙袋"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "タンク方式では、密閉した耐圧タンク内に発酵で生じるガスを保持します。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Sparkling wine production methods",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/a-guide-to-sparkling-wine-production-methods-and-regional-styles"
+  },
+  {
+    "question": "プロセッコの代表的な原料品種は？",
+    "choices": [
+      "テンプラニーリョ",
+      "グレーラ",
+      "ネッビオーロ",
+      "ピノタージュ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "グレーラは、プロセッコを代表するぶどう品種です。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Sparkling wine production methods",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/a-guide-to-sparkling-wine-production-methods-and-regional-styles"
+  },
+  {
+    "question": "ペット・ナットの基本的な造り方は？",
+    "choices": [
+      "果汁を発酵させない",
+      "蒸留を3回行う",
+      "最初の発酵の途中で瓶詰めする",
+      "必ず炭酸水で薄める"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "アンセストラル方式では、一次発酵の途中に瓶詰めして自然なガスを閉じ込めます。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Sparkling wine production methods",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/a-guide-to-sparkling-wine-production-methods-and-regional-styles"
+  },
+  {
+    "question": "ポートの発酵途中でスピリッツを加える主な効果は？",
+    "choices": [
+      "度数をゼロにする",
+      "赤を必ず白にする",
+      "酵母を無限に増やす",
+      "発酵を止めて糖を残す"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "酒精強化で発酵を止めることで、ぶどう由来の糖を残せます。",
+    "difficulty": "Medium",
+    "sourceTitle": "IVDP — Port Wines: Introduction",
+    "sourceURL": "https://ivdp.pt/en/wines/port-wines/introduction/"
+  },
+  {
+    "question": "ポートの一般的なアルコール度数の範囲は？",
+    "choices": [
+      "19〜22%程度",
+      "0〜1%程度",
+      "2〜3%程度",
+      "60〜70%程度"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "IVDPは、ポートの一般的な度数を19〜22%と説明しています。",
+    "difficulty": "Medium",
+    "sourceTitle": "IVDP — Port Wines: Introduction",
+    "sourceURL": "https://ivdp.pt/en/wines/port-wines/introduction/"
+  },
+  {
+    "question": "フィノ・シェリーを熟成中に覆う「フロール」は？",
+    "choices": [
+      "氷の層",
+      "砂糖の結晶板",
+      "ぶどうの葉",
+      "酵母の膜"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "フロールはワインの表面に育つ酵母の膜で、フィノの熟成に関わります。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Sherry and food",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2020/november/03/sherry-and-food-the-perfect-match"
+  },
+  {
+    "question": "シェリーの「フィノ」は一般にどんな甘辛度？",
+    "choices": [
+      "甘辛度が存在しない",
+      "必ず極甘口",
+      "辛口",
+      "必ず砂糖50%"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "フィノは、フロールの下で熟成する辛口のシェリーです。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Sherry and food",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2020/november/03/sherry-and-food-the-perfect-match"
+  },
+  {
+    "question": "ワインを空気に触れさせる目的でも使う道具は？",
+    "choices": [
+      "ビールの泡切り",
+      "蒸留塔",
+      "氷削り器",
+      "デキャンタ"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "デキャンタは、澱を分けるほか、ワインを空気に触れさせる目的でも使います。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Serving and decanting wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/21/frequently-asked-questions-about-serving-and-decanting-wine/"
+  },
+  {
+    "question": "ぶどうの成熟が進むにつれて、酸は一般にどう変わる？",
+    "choices": [
+      "必ず増え続ける",
+      "食塩になる",
+      "油になる",
+      "減少する"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "一般に、成熟するにつれ糖は増え、酸は減少します。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Understanding acidity in wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/understanding-acidity-in-wine/"
+  },
+  {
+    "question": "標高の高い畑が、同じ地域の低い畑より冷涼になりやすい理由は？",
+    "choices": [
+      "太陽が存在しないため",
+      "標高とともに気温が下がるため",
+      "酸素が糖になるため",
+      "土が必ず凍るため"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "標高は気温に影響し、高地ではぶどうの成熟がゆっくり進みやすくなります。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — How does geography affect a wine’s style?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/august/24/how-does-geography-affect-a-wine-s-style"
+  },
+  {
+    "question": "海風が暑い産地の畑にもたらすことがある効果は？",
+    "choices": [
+      "全品種を白ぶどうにする",
+      "必ず塩味を付ける",
+      "果汁を発泡させる",
+      "気温を和らげる"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "海からの風などの冷却作用は、畑の暑さを和らげることがあります。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — How does geography affect a wine’s style?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/august/24/how-does-geography-affect-a-wine-s-style"
+  },
+  {
+    "question": "「ヴェレゾン」が示すぶどうの変化は？",
+    "choices": [
+      "瓶を密栓する",
+      "樹が根を失う",
+      "樽が完成する",
+      "果実が色づき成熟し始める"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ヴェレゾンは、実の色が変わり、熟し始める段階を指します。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Level 2 Wines Session Plans (2023)",
+    "sourceURL": "https://www.wsetglobal.com/media/13022/wset_l2wines_sessionplans_en_may2023_issue2.pdf"
+  },
+  {
+    "question": "ぶどうが熟すにつれ、糖は一般にどうなる？",
+    "choices": [
+      "種にすべて移る",
+      "増える",
+      "食塩になる",
+      "必ずゼロになる"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "成熟が進むと、果実の糖が増えていきます。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Level 2 Wines Session Plans (2023)",
+    "sourceURL": "https://www.wsetglobal.com/media/13022/wset_l2wines_sessionplans_en_may2023_issue2.pdf"
+  },
+  {
+    "question": "品種名が書かれていないラベルから、品種を推測する手がかりは？",
+    "choices": [
+      "ラベルの紙の厚さだけ",
+      "産地名",
+      "瓶の傷だけ",
+      "バーコードの太さだけ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "伝統産地では使う品種に特色があり、産地名が品種を知る手がかりになります。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — How to read wine labels",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2019/how-to-read-wine-labels-part-one-common-features-on-wine-labels"
+  },
+  {
+    "question": "ワインの香りで「核果」に分類される例は？",
+    "choices": [
+      "カシス",
+      "ライム",
+      "革",
+      "もも"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ももやアプリコットは、種の硬い核果の香りの例です。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Level 3 Wine Lexicon",
+    "sourceURL": "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf"
+  },
+  {
+    "question": "ワインの香りで「黒系果実」に分類される例は？",
+    "choices": [
+      "ブラックカラント",
+      "アカシア",
+      "青りんご",
+      "レモン"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "ブラックカラントやブラックベリーは、黒系果実の香りに分類されます。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Level 3 Wine Lexicon",
+    "sourceURL": "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf"
+  },
+  {
+    "question": "ワインの「第三アロマ」が主に関係するのは？",
+    "choices": [
+      "ぶどうの葉の枚数だけ",
+      "熟成による香りの変化",
+      "収穫した曜日だけ",
+      "瓶の形だけ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "第三アロマは、酸化的熟成や瓶熟成で発達する香りです。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Level 3 Wine Lexicon",
+    "sourceURL": "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf"
+  },
+  {
+    "question": "オーク樽を作る職人の呼び名は？",
+    "choices": [
+      "クーパー",
+      "ソムリエ",
+      "ネゴシアン",
+      "ヴィニュロン"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "クーパーは樽職人のことです。板材を加熱して曲げ、丸い樽の形に組み上げます。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Why is oak used in winemaking?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/july/27/why-is-oak-used-in-winemaking/"
+  },
+  {
+    "question": "発酵後に沈む酵母などを含む沈殿物の呼び名は？",
+    "choices": [
+      "澱（リーズ）",
+      "果梗だけ",
+      "フロールだけ",
+      "蒸気"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "発酵後の酵母などが沈殿して澱となり、熟成に利用されることもあります。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Level 2 Wines Session Plans (2023)",
+    "sourceURL": "https://www.wsetglobal.com/media/13022/wset_l2wines_sessionplans_en_may2023_issue2.pdf"
+  },
+  {
+    "question": "マロラクティック発酵で変化する酸の組合せは？",
+    "choices": [
+      "リンゴ酸から乳酸",
+      "乳酸から硫酸",
+      "酢酸から炭酸だけ",
+      "酒石酸から塩酸"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "乳酸菌によってリンゴ酸が乳酸へ変わり、一般に酸味が穏やかになります。",
+    "difficulty": "Medium",
+    "sourceTitle": "WSET — Understanding acidity in wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/understanding-acidity-in-wine/"
+  },
+  {
+    "question": "シャンパーニュのドザージュは主に何を調整する？",
+    "choices": [
+      "果皮の厚さ",
+      "ぶどうの収穫年",
+      "畑の標高",
+      "甘味のバランス"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ドザージュでは糖を含むワインなどを補い、最終的な味わいを調整します。",
+    "difficulty": "Medium",
+    "sourceTitle": "Union des Maisons de Champagne — Dosage",
+    "sourceURL": "https://maisons-champagne.com/en/appellation/stages-in-winemaking/preparation-for-shipment-many-years-later/article/dosage"
+  },
+  {
+    "question": "シャンパーニュのデゴルジュマンで取り除くものは？",
+    "choices": [
+      "アルコール全部",
+      "瓶口に集めた澱",
+      "色素全部",
+      "炭酸全部"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "デゴルジュマンは、瓶口に集めた澱を瓶内の圧力で排出する工程です。",
+    "difficulty": "Medium",
+    "sourceTitle": "Comité Champagne — Disgorgement",
+    "sourceURL": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/disgorgement"
+  },
+  {
+    "question": "ルミュアージュの主な目的は？",
+    "choices": [
+      "果汁を搾る",
+      "樽に色を付ける",
+      "コルクを栽培する",
+      "澱を瓶口へ集める"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "瓶を動かして澱を瓶口へ集め、次の澱抜きに備えます。",
+    "difficulty": "Medium",
+    "sourceTitle": "Comité Champagne — Disgorgement",
+    "sourceURL": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/disgorgement"
+  },
+  {
+    "question": "マールボロではソーヴィニヨン・ブラン以外に赤も造る？",
+    "choices": [
+      "白しか造れない",
+      "ぶどうを栽培しない",
+      "ピノ・ノワールなどを造る",
+      "蒸留酒だけを造る"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "マールボロでは、ピノ・ノワールなど多様な品種も栽培されています。",
+    "difficulty": "Medium",
+    "sourceTitle": "New Zealand Winegrowers — Marlborough",
+    "sourceURL": "https://www.nzwine.com/en/regions/marlborough/"
+  },
+  {
+    "question": "オーストラリアのクレア・ヴァレーで、シラーズ以外に名高い白品種は？",
+    "choices": [
+      "リースリング",
+      "ネッビオーロ",
+      "メルロー",
+      "テンプラニーリョ"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "クレア・ヴァレーは、リースリングでも知られる産地です。",
+    "difficulty": "Medium",
+    "sourceTitle": "Wine Australia — Shiraz",
+    "sourceURL": "https://www.wineaustralia.com/market-insights/regions-and-varieties/shiraz"
+  },
+  {
+    "question": "リオハのグラシアーノがブレンドに加えやすい特徴は？",
+    "choices": [
+      "必ず無色にする作用",
+      "必ず甘味を消す作用",
+      "香りや酸、色の深み",
+      "発酵を完全に防ぐ作用"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "グラシアーノは、香りや酸、色の深みに寄与する品種として使われます。",
+    "difficulty": "Medium",
+    "sourceTitle": "Consejo Regulador DOCa Rioja — Bartender guide",
+    "sourceURL": "https://rwcc.riojawine.com/uploads/multimedia/document/Rioja-bartender-guide.pdf"
+  },
+  {
+    "question": "ホワイト・ポートをより辛口にするには、一般にどうする？",
+    "choices": [
+      "酒精強化前の発酵を長めに進める",
+      "氷だけを足す",
+      "必ず発酵を一切しない",
+      "果皮を青くする"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "糖をより多く発酵させてから強化することで、残る糖を少なくできます。",
+    "difficulty": "Medium",
+    "sourceTitle": "IVDP — Port Wines: The Winemaking",
+    "sourceURL": "https://www.ivdp.pt/en/wines/port-wines/the-winemaking/"
+  },
+  {
+    "question": "バルバレスコの生産地域に含まれる村は？",
+    "choices": [
+      "シャブリ",
+      "ヘレス",
+      "ネイヴェ",
+      "ポイヤック"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "バルバレスコDOCGは、バルバレスコ、トレイゾ、ネイヴェなどの地域で造られます。",
+    "difficulty": "Medium",
+    "sourceTitle": "Consorzio Langhe Vini — Barbaresco DOCG",
+    "sourceURL": "https://www.langhevini.it/en/le-denominazioni-tutelate-dal-consorzio/barbaresco-docg/"
+  },
+  {
+    "question": "トロッケンベーレンアウスレーゼの原料として特徴的なのは？",
+    "choices": [
+      "未熟な青い果粒だけ",
+      "蒸留したワインだけ",
+      "凍らせた水だけ",
+      "貴腐で干しぶどう状になった果粒"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "TBAは、貴腐で強く凝縮し、しなびた果粒から造る極甘口ワインです。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Decoding German Riesling",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2025/decoding-german-riesling-a-guide-to-quality-and-styles"
+  },
+  {
+    "question": "「Auslese」の原料選別として適切なのは？",
+    "choices": [
+      "必ず瓶を選ぶ",
+      "特に熟した房を選んで収穫する",
+      "必ず未熟な葉を選ぶ",
+      "必ずコルクを選ぶ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "アウスレーゼでは、特に熟したぶどうの房を選びます。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Decoding German Riesling",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2025/decoding-german-riesling-a-guide-to-quality-and-styles"
+  },
+  {
+    "question": "「Beerenauslese」の選別単位として基本となるのは？",
+    "choices": [
+      "瓶箱",
+      "畑の石",
+      "果粒",
+      "樽"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "ベーレンは果粒を意味し、高い糖度の果粒を選んで収穫する区分です。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Decoding German Riesling",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2025/decoding-german-riesling-a-guide-to-quality-and-styles"
+  },
+  {
+    "question": "発酵を途中で止めたリースリングに、残りやすいものは？",
+    "choices": [
+      "必ず乳脂肪",
+      "発酵しきらなかった糖",
+      "必ず塩酸",
+      "必ずカフェイン"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "酵母が使い切らなかった糖が残り、甘味のあるスタイルになります。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Understanding Riesling in Germany",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/17/understanding-riesling-in-germany"
+  },
+  {
+    "question": "貴腐に関わる菌の名前は？",
+    "choices": [
+      "ラクトバチルスだけ",
+      "ボトリティス・シネレア",
+      "ペニシリウム・ロックフォルティ",
+      "アスペルギルス・オリゼー"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "適切な条件で働くボトリティス・シネレアが、貴腐による凝縮をもたらします。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Understanding Riesling in Germany",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/17/understanding-riesling-in-germany"
+  },
+  {
+    "question": "マロラクティック発酵を進める微生物は主に？",
+    "choices": [
+      "酢酸菌だけ",
+      "微生物は不要",
+      "乳酸菌",
+      "カビだけ"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "マロラクティック発酵は、乳酸菌がリンゴ酸を代謝する過程です。",
+    "difficulty": "Hard",
+    "sourceTitle": "Oregon State University Extension — Malolactic fermentation",
+    "sourceURL": "https://extension.oregonstate.edu/food/wine-beer/conducting-successful-malolactic-fermentation"
+  },
+  {
+    "question": "マロラクティック発酵を妨げやすい成分は？",
+    "choices": [
+      "酒石酸の結晶だけ",
+      "二酸化硫黄（亜硫酸）",
+      "水だけ",
+      "窒素ガスだけ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "二酸化硫黄は、条件によってマロラクティック発酵を担う菌の活動を抑えます。",
+    "difficulty": "Hard",
+    "sourceTitle": "Oregon State University Extension — Malolactic fermentation",
+    "sourceURL": "https://extension.oregonstate.edu/food/wine-beer/conducting-successful-malolactic-fermentation"
+  },
+  {
+    "question": "マロラクティック発酵の進行確認で測る対象は？",
+    "choices": [
+      "瓶の重量だけ",
+      "コルクの直径",
+      "ラベルの面積",
+      "リンゴ酸の残量"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "リンゴ酸がどれだけ消費されたかを分析し、進行や終了を判断します。",
+    "difficulty": "Hard",
+    "sourceTitle": "Oregon State University Extension — Malolactic fermentation",
+    "sourceURL": "https://extension.oregonstate.edu/food/wine-beer/conducting-successful-malolactic-fermentation"
+  },
+  {
+    "question": "爽やかな酸を保つ白ワインで、造り手が避けることがある工程は？",
+    "choices": [
+      "ぶどうの収穫",
+      "すべての果汁の圧搾",
+      "瓶詰めそのもの",
+      "マロラクティック発酵"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "リンゴ酸を保つため、白ワインではマロラクティック発酵を抑える場合があります。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Understanding acidity in wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/understanding-acidity-in-wine/"
+  },
+  {
+    "question": "ワインの熟成に酸が果たす役割として適切なのは？",
+    "choices": [
+      "長期熟成中の新鮮さを支える",
+      "必ず甘口に変える",
+      "すべての酸化を完全に止める",
+      "必ず発泡性にする"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "十分な酸は、熟成したワインの新鮮さや骨格を支える要素です。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Understanding acidity in wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/understanding-acidity-in-wine/"
+  },
+  {
+    "question": "熟成中に澱をかき混ぜる操作の目的の一つは？",
+    "choices": [
+      "ワインと澱の接触を増やす",
+      "糖を完全に消す",
+      "果皮を漂白する",
+      "度数をゼロにする"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "澱をかき混ぜて接触を増やし、厚みやパンのような風味を引き出すことがあります。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Level 2 Wines Session Plans (2023)",
+    "sourceURL": "https://www.wsetglobal.com/media/13022/wset_l2wines_sessionplans_en_may2023_issue2.pdf"
+  },
+  {
+    "question": "オーク由来の香りの例として適切なのは？",
+    "choices": [
+      "ヴァニラやクローヴ",
+      "レモンだけ",
+      "いちごだけ",
+      "青りんごだけ"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "ヴァニラやクローヴ、トーストなどは、オーク由来の香りの例です。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Level 3 Wine Lexicon",
+    "sourceURL": "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf"
+  },
+  {
+    "question": "瓶熟成した赤ワインの第三アロマの例は？",
+    "choices": [
+      "砂糖そのもの",
+      "食塩",
+      "発泡用の炭酸ガス",
+      "革や林床"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "瓶熟成では、若い果実香に加えて革や林床などの香りが発達することがあります。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Level 3 Wine Lexicon",
+    "sourceURL": "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf"
+  },
+  {
+    "question": "同じ北半球の畑で、南向き斜面が一般に受けやすいのは？",
+    "choices": [
+      "必ず少ない光",
+      "必ず多い雪",
+      "海水",
+      "より多い日射"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "北半球では、太陽に向く南向き斜面がより日射を受けやすくなります。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — How does geography affect a wine’s style?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/august/24/how-does-geography-affect-a-wine-s-style"
+  },
+  {
+    "question": "黒ぶどうがヴェレゾンを迎えたときの色の変化は？",
+    "choices": [
+      "色は絶対に変わらない",
+      "緑から赤紫系へ",
+      "緑から青い金属色へ",
+      "赤紫から必ず白へ"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "黒ぶどうは、成熟が始まると緑色から赤や紫色へ変わっていきます。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Level 2 Wines Session Plans (2023)",
+    "sourceURL": "https://www.wsetglobal.com/media/13022/wset_l2wines_sessionplans_en_may2023_issue2.pdf"
+  },
+  {
+    "question": "異なる収穫年のワインを組み合わせる目的の一つは？",
+    "choices": [
+      "年をまたいでスタイルを安定させる",
+      "産地を消す",
+      "発酵を不要にする",
+      "必ず度数をゼロにする"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "複数年のワインを使うブレンドは、一定のスタイルを維持するのに役立ちます。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Why do we blend wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/why-do-we-blend-wine/"
+  },
+  {
+    "question": "伝統方式で澱との熟成から生まれやすい香りは？",
+    "choices": [
+      "パンやブリオッシュ",
+      "必ずミントだけ",
+      "必ず青ピーマンだけ",
+      "香りは一切生じない"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "澱との接触と酵母の自己分解により、パンのような香りが発達します。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Sparkling wine production methods",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/a-guide-to-sparkling-wine-production-methods-and-regional-styles"
+  },
+  {
+    "question": "タンク方式が特に生かしやすい特徴は？",
+    "choices": [
+      "必ず強い獣香",
+      "必ず強い酸化香",
+      "必ず数十年の瓶熟成香",
+      "ぶどうの新鮮な果実香"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "タンク方式は、比較的短い製造期間で果実の新鮮な香りを生かせます。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Sparkling wine production methods",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2026/a-guide-to-sparkling-wine-production-methods-and-regional-styles"
+  },
+  {
+    "question": "シャンパーニュの「Brut」は糖分が通常どの範囲？",
+    "choices": [
+      "必ず0g/Lのみ",
+      "必ず100g/L",
+      "12g/L未満",
+      "必ず50g/L超"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "ブリュットは、残糖12g/L未満という区分です。",
+    "difficulty": "Hard",
+    "sourceTitle": "Comité Champagne — How to read a Champagne label",
+    "sourceURL": "https://www.champagne.fr/system/files/2025-09/FICHE%20SAVOIR%20LIRE%20UNE%20%C3%89TIQUETTE%20EN%202025.pdf"
+  },
+  {
+    "question": "シャンパーニュの「Brut Nature」の糖分の基準は？",
+    "choices": [
+      "3g/L未満",
+      "50g/L以上",
+      "100g/L以上",
+      "20〜30g/L"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "ブリュット・ナチュールは糖分3g/L未満の区分です。",
+    "difficulty": "Hard",
+    "sourceTitle": "Comité Champagne — How to read a Champagne label",
+    "sourceURL": "https://www.champagne.fr/system/files/2025-09/FICHE%20SAVOIR%20LIRE%20UNE%20%C3%89TIQUETTE%20EN%202025.pdf"
+  },
+  {
+    "question": "機械的な澱抜きで瓶口を冷やす目的は？",
+    "choices": [
+      "ワイン全体を氷にする",
+      "瓶を膨張させる",
+      "糖を完全に消す",
+      "澱を凍らせて栓状にする"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "瓶口に集めた澱を凍らせ、圧力で排出しやすくします。",
+    "difficulty": "Hard",
+    "sourceTitle": "Comité Champagne — Disgorgement",
+    "sourceURL": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/disgorgement"
+  },
+  {
+    "question": "ドザージュで加える液の一般的な組合せは？",
+    "choices": [
+      "ワインと糖",
+      "海水と油",
+      "コーヒーと牛乳",
+      "ビールと塩"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "一般にワインと糖からなる液を使い、酸と甘味のバランスを調整します。",
+    "difficulty": "Hard",
+    "sourceTitle": "Union des Maisons de Champagne — Dosage",
+    "sourceURL": "https://maisons-champagne.com/en/appellation/stages-in-winemaking/preparation-for-shipment-many-years-later/article/dosage"
+  },
+  {
+    "question": "伝統的なポート造りで、ぶどうを足で踏む大きな槽は何製？",
+    "choices": [
+      "段ボール",
+      "石",
+      "天然氷",
+      "薄い紙"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "ドウロの伝統的な醸造では、大きな石の槽でぶどうを踏んで処理します。",
+    "difficulty": "Hard",
+    "sourceTitle": "IVDP — Port Wines: The Winemaking",
+    "sourceURL": "https://www.ivdp.pt/en/wines/port-wines/the-winemaking/"
+  },
+  {
+    "question": "白ポートで「ビカ・アベルタ」と呼ぶ方法の特徴は？",
+    "choices": [
+      "必ず瓶内二次発酵する",
+      "果汁を蒸留してから戻す",
+      "種だけ発酵する",
+      "固形物と接触させず果汁を発酵する"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ビカ・アベルタは、果皮などの固形物を除いた果汁を発酵する方法です。",
+    "difficulty": "Hard",
+    "sourceTitle": "IVDP — Port Wines: The Winemaking",
+    "sourceURL": "https://www.ivdp.pt/en/wines/port-wines/the-winemaking/"
+  },
+  {
+    "question": "シェリー造りで「ソレオ」とは？",
+    "choices": [
+      "澱を凍らせること",
+      "瓶を海に沈めること",
+      "果汁を蒸留すること",
+      "ぶどうを天日に干すこと"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "ソレオは、ぶどうを日干しして水分を減らし、糖を凝縮させる操作です。",
+    "difficulty": "Hard",
+    "sourceTitle": "Sherry Wines — Vinification",
+    "sourceURL": "https://cdn.sherry.wine/sherry-wine/production/vinification"
+  },
+  {
+    "question": "フロールの生育に重要な環境の組合せは？",
+    "choices": [
+      "温度と湿度",
+      "瓶のラベル色と紙質",
+      "畑の住所と郵便番号",
+      "コルクの模様と高さ"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "フロールは生きた酵母の膜で、生育には温度や湿度などの条件が影響します。",
+    "difficulty": "Hard",
+    "sourceTitle": "Sherry Wines — Vinification",
+    "sourceURL": "https://cdn.sherry.wine/sherry-wine/production/vinification"
+  },
+  {
+    "question": "リオハのマスエロがブレンドに寄与する要素は？",
+    "choices": [
+      "色、酸、しっかりしたタンニン",
+      "炭酸だけ",
+      "糖を必ず増やす作用",
+      "無色透明にする作用"
+    ],
+    "correctAnswerIndex": 0,
+    "trivia": "マスエロは、色や酸、強いタンニンによってブレンドの骨格に寄与します。",
+    "difficulty": "Hard",
+    "sourceTitle": "Consejo Regulador DOCa Rioja — Bartender guide",
+    "sourceURL": "https://rwcc.riojawine.com/uploads/multimedia/document/Rioja-bartender-guide.pdf"
+  },
+  {
+    "question": "バロッサより高地に畑があるイーデン・ヴァレーでは、収穫は一般に？",
+    "choices": [
+      "必ず1年早くなる",
+      "冬だけになる",
+      "毎日行う",
+      "バロッサより遅くなる"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "標高の影響で成熟が遅れ、シラーズの収穫もバロッサより遅くなりやすい産地です。",
+    "difficulty": "Hard",
+    "sourceTitle": "Wine Australia — Shiraz",
+    "sourceURL": "https://www.wineaustralia.com/market-insights/regions-and-varieties/shiraz"
+  },
+  {
+    "question": "マールボロのアワテレ・ヴァレーを特徴づける条件は？",
+    "choices": [
+      "畑がすべて水没",
+      "一年中熱帯の高温多湿",
+      "比較的冷涼で乾燥し風が強い",
+      "日光が全くない"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "アワテレは、マールボロの中でも冷涼・乾燥・強風などの条件を持つ地区です。",
+    "difficulty": "Hard",
+    "sourceTitle": "New Zealand Winegrowers — Marlborough",
+    "sourceURL": "https://www.nzwine.com/en/regions/marlborough/"
+  },
+  {
+    "question": "バルバレスコDOCGの基本的な最低熟成期間は？",
+    "choices": [
+      "2か月",
+      "26か月",
+      "6か月",
+      "100か月"
+    ],
+    "correctAnswerIndex": 1,
+    "trivia": "バルバレスコは最低26か月の熟成が必要で、そのうち少なくとも9か月を木樽で熟成します。熟成期間は収穫年の11月1日から数えます。",
+    "difficulty": "Hard",
+    "sourceTitle": "Consorzio Langhe Vini — Barbaresco DOCG production regulations, Art. 5",
+    "sourceURL": "https://www.langhevini.it/wp-content/uploads/2019/05/Disciplinare-BARBARESCO-EN.pdf"
+  },
+  {
+    "question": "バルバレスコのリゼルヴァの最低熟成期間は？",
+    "choices": [
+      "20か月",
+      "12か月",
+      "5か月",
+      "50か月"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "バルバレスコ・リゼルヴァは、最低50か月熟成する区分です。熟成期間は収穫年の11月1日から数えます。",
+    "difficulty": "Hard",
+    "sourceTitle": "Consorzio Langhe Vini — Barbaresco DOCG production regulations, Art. 5",
+    "sourceURL": "https://www.langhevini.it/wp-content/uploads/2019/05/Disciplinare-BARBARESCO-EN.pdf"
+  },
+  {
+    "question": "ポートの甘味の程度を左右する重要な判断は？",
+    "choices": [
+      "コルクを印刷する色",
+      "ラベルを貼る曜日",
+      "瓶を拭く回数",
+      "発酵のどの時点で酒精強化するか"
+    ],
+    "correctAnswerIndex": 3,
+    "trivia": "強化する時点で残っている糖の量が変わり、甘味の程度に影響します。",
+    "difficulty": "Hard",
+    "sourceTitle": "IVDP — Port Wines: Introduction",
+    "sourceURL": "https://ivdp.pt/en/wines/port-wines/introduction/"
+  },
+  {
+    "question": "テンプラニーリョの別名として正しいのは？",
+    "choices": [
+      "アリゴテ",
+      "グレーラ",
+      "ティント・フィノ",
+      "マカベオ"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "テンプラニーリョは、地域によりティント・フィノなどの名でも呼ばれます。",
+    "difficulty": "Hard",
+    "sourceTitle": "Consejo Regulador DOCa Rioja — Tempranillo",
+    "sourceURL": "https://riojawine.com/en-us/the-designation/grape-varieties/tempranillo/"
+  },
+  {
+    "question": "非常に古く繊細なワインを長時間空気に触れさせると？",
+    "choices": [
+      "必ず品質が上がり続ける",
+      "糖が必ず増える",
+      "香りや味わいを失うおそれがある",
+      "度数が必ず倍になる"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "繊細な熟成ワインは空気に長く触れると風味を失うことがあり、慎重な扱いが必要です。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — Serving and decanting wine",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2024/july/21/frequently-asked-questions-about-serving-and-decanting-wine/"
+  },
+  {
+    "question": "赤ワインの果皮からの抽出量に影響する要因の組合せは？",
+    "choices": [
+      "瓶の値段と箱の大きさ",
+      "ラベルの色と字体",
+      "接触時間と温度",
+      "収穫した曜日と時刻だけ"
+    ],
+    "correctAnswerIndex": 2,
+    "trivia": "果皮との接触時間や温度は、色やタンニンの抽出の程度に影響します。",
+    "difficulty": "Hard",
+    "sourceTitle": "WSET — What determines the colour of wine?",
+    "sourceURL": "https://www.wsetglobal.com/knowledge-centre/blog/2021/september/23/what-determines-the-colour-of-wine"
+  }
+]
