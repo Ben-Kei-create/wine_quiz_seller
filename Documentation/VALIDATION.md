@@ -8,7 +8,7 @@
 - Deployment Target：iOS 17.0、Swift language mode：5.0
 - Google Mobile Ads SDK：13.3.0、Google User Messaging Platform：3.1.0（Package.resolved固定）
 - アプリ／テストターゲット：WineQuiz、WineQuizTests、WineQuizUITests
-- Bundle ID：io.github.benkeicreate.winequiz
+- Bundle ID：com.fumiaki.wineryQuiz
 - Debug／Release：バージョン1.0.0、ビルド番号1。Debugは公式テストバナー、Releaseはワイン専用本番バナー。UMP対応のアプリIDは両構成ワイン専用。
 
 ## 機能テスト

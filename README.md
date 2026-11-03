@@ -9,7 +9,7 @@ SwiftUI製のiOSアプリです。ビール版の4択・10問・制限時間・�
 - iOS 17.0以降、iPhone／iPad
 - アプリ名：ワイン雑学クイズ
 - ターゲット／モジュール：WineQuiz
-- Bundle ID：`io.github.benkeicreate.winequiz`
+- Bundle ID：`com.fumiaki.wineryQuiz`
 - バージョン：1.0.0、ビルド番号：1
 - 保存キー：`winequiz.` 接頭辞。ビール版の保存データは読み込みません。
 
